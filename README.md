@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @devemre
-- 👨‍🎓 I study both Computer Engineering & Electrical and Electronics Engineering
+- 👨‍🎓 I am studying both Computer Engineering & Electrical and Electronics Engineering
 - 👀 I’m interested in music, coding, and electronics
 - 🌱 I’m currently learning React Native
 - 📫 How to reach me dev.emre.aydin@gmail.com
