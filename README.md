@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @devemre
-- 👀 I’m interested in music and coding
-- 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on ...
+- 👨‍🎓 I study both Computer Engineering & Electrical and Electronics Engineering
+- 👀 I’m interested in music, coding, and electronics
+- 🌱 I’m currently learning React Native
 - 📫 How to reach me dev.emre.aydin@gmail.com
 
 <!---
