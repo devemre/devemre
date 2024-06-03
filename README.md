@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Emre</h1>
+<h1 align="center">Hi, I'm Emre 👋</h1>
 <h3 align="center">Full-Stack Developer</h3>
 
 <h4>👨‍🎓 I am both Computer Engineer & Electrical and Electronics Engineer</h4>
