@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @devemre
-- 👨‍🎓 I am studying both Computer Engineering & Electrical and Electronics Engineering
+- 👨‍🎓 I am both Computer Engineer & Electrical and Electronics Engineer
+- 💻 I am working as a full-stack developer
 - 👀 I’m interested in music, coding, and circuits
 - 📫 How to reach me dev.emre.aydin@gmail.com
 
