@@ -1,7 +1,8 @@
 <h1 align="center">Hi, I'm Emre 👋</h1>
-<h3 align="center">Full-Stack Developer</h3>
+<h3 align="center">Full-Stack Software Engineer</h3>
 
-<h4>👨‍🎓 I am both Computer Engineer & Electrical and Electronics Engineer</h4>
+<h4>👨‍🎓 I am both Computer Engineer & Electrical and Electronics Engineer from Koç University</h4>
+<h4>💻 I am currently studying to extend my React and Spring Framework knowledge</h4>
 <h4>👀 I’m interested in music, coding, and circuits</h4>
 <h4>📫 How to reach me dev.emre.aydin@gmail.com</h4>
 
